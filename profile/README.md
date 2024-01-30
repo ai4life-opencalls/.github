@@ -10,8 +10,18 @@
 Each year, several projects are selected for deep learning support. The AI4Life Open Calls team then spend 6 months 
 investigating ways to improve existing workflows and the applicability of deep learning to the selected projects.
 
-In this repository, you can find a list of the finalized pipelines:
-(coming soon for OC 2023)
+In this repository, you can find a list of the finalized pipelines for each Open Call.
+
+## Year 1
+
+- 3 - [Treat CKD](https://github.com/ai4life-opencalls/oc_1_project_3)
+- 6 - [Murine skeletal muscle analysis](https://github.com/ai4life-opencalls/oc_1_project_6)
+- 11 - [Segmentation and tracking of epithelial cells](https://github.com/ai4life-opencalls/oc_1_project_11)
+- 52 - [Atlas of Symbiotic partnerships in plankton](https://github.com/ai4life-opencalls/oc_1_project_52)
+
+
+
+
 
 
 AI4Life has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement number 101057970. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.

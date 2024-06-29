@@ -21,6 +21,7 @@ In this repository, you can find a list of the finalized pipelines for each Open
 - 47 - [Automated detection and quantification of senescent cells](https://github.com/ai4life-opencalls/oc_1_project_47)
 - 52 - [Atlas of Symbiotic partnerships in plankton](https://github.com/ai4life-opencalls/oc_1_project_52)
 - 66 - [Automated and integrated cilia profiling](https://github.com/ai4life-opencalls/oc_1_project_66)
+- 74 - [Leaf tracker plant species proof](https://github.com/ai4life-opencalls/oc-1-project-74)
 
 
 

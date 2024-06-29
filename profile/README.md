@@ -16,6 +16,7 @@ In this repository, you can find a list of the finalized pipelines for each Open
 
 - 3 - [Treat CKD](https://github.com/ai4life-opencalls/oc_1_project_3)
 - 6 - [Murine skeletal muscle analysis](https://github.com/ai4life-opencalls/oc_1_project_6)
+- 10 - [Image-guided gating strategy for image-enabled cell sorting of phytoplankton](https://github.com/ai4life-opencalls/oc_1_project_10)
 - 11 - [Segmentation and tracking of epithelial cells](https://github.com/ai4life-opencalls/oc_1_project_11)
 - 47 - [Automated detection and quantification of senescent cells](https://github.com/ai4life-opencalls/oc_1_project_47)
 - 52 - [Atlas of Symbiotic partnerships in plankton](https://github.com/ai4life-opencalls/oc_1_project_52)

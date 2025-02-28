@@ -23,10 +23,12 @@ In this repository, you can find a list of the finalized pipelines for each Open
 - 66 - [Automated and integrated cilia profiling](https://github.com/ai4life-opencalls/oc_1_project_66)
 - 74 - [Leaf tracker plant species proof](https://github.com/ai4life-opencalls/oc-1-project-74)
 
+<br><br>
 
 ## Year 2
+
 - 11 - [Automated species annotation in turbid waters](https://github.com/ai4life-opencalls/oc_2_project_11)
-- 13 - Calcium Denoising
+- 13 - Optimizing calcium image acquisition with machine learning denoising algorithms
 - 23 - Enhancing the effective resolution of intravital microscopy with digital expansion microscopy
 - 14 - Diatom symbioses at planetary scale
 - 21 - Automated segmentation of actin filaments in intact cells (EM)
@@ -34,5 +36,7 @@ In this repository, you can find a list of the finalized pipelines for each Open
 - 38 - NeuroScan - A 3D human motor neuron disease platform for high throughput drug screening 
 
 
+
+<br><br>
 
 AI4Life has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement number 101057970. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.

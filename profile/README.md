@@ -24,7 +24,14 @@ In this repository, you can find a list of the finalized pipelines for each Open
 - 74 - [Leaf tracker plant species proof](https://github.com/ai4life-opencalls/oc-1-project-74)
 
 
-
+## Year 2
+- 11 - [Automated species annotation in turbid waters](https://github.com/ai4life-opencalls/oc_2_project_11)
+- 13 - Calcium Denoising
+- 23 - Enhancing the effective resolution of intravital microscopy with digital expansion microscopy
+- 14 - Diatom symbioses at planetary scale
+- 21 - Automated segmentation of actin filaments in intact cells (EM)
+- 26 - Ultrastructural protein mapping  through Correlation of Light and Electron Microscopy
+- 38 - NeuroScan - A 3D human motor neuron disease platform for high throughput drug screening 
 
 
 

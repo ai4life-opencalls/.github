@@ -28,7 +28,7 @@ In this repository, you can find a list of the finalized pipelines for each Open
 ## Year 2
 
 - 11 - [Automated species annotation in turbid waters](https://github.com/ai4life-opencalls/oc_2_project_11)
-- 13 - Optimizing calcium image acquisition with machine learning denoising algorithms
+- 13 - [Optimizing calcium image acquisition with machine learning denoising algorithms](https://github.com/ai4life-opencalls/oc_2_project_13)
 - 23 - Enhancing the effective resolution of intravital microscopy with digital expansion microscopy
 - 14 - Diatom symbioses at planetary scale
 - 21 - Automated segmentation of actin filaments in intact cells (EM)

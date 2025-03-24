@@ -33,7 +33,7 @@ In this repository, you can find a list of the finalized pipelines for each Open
 - 14 - Diatom symbioses at planetary scale
 - 21 - Automated segmentation of actin filaments in intact cells (EM)
 - 26 - Ultrastructural protein mapping  through Correlation of Light and Electron Microscopy
-- 38 - NeuroScan - A 3D human motor neuron disease platform for high throughput drug screening 
+- 38 - [NeuroScan - A 3D human motor neuron disease platform for high throughput drug screening](https://github.com/ai4life-opencalls/oc_2_project_38) 
 
 
 

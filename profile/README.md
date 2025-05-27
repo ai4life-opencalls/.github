@@ -35,7 +35,17 @@ In this repository, you can find a list of the finalized pipelines for each Open
 - 26 - Ultrastructural protein mapping  through Correlation of Light and Electron Microscopy
 - 38 - [NeuroScan - A 3D human motor neuron disease platform for high throughput drug screening](https://github.com/ai4life-opencalls/oc_2_project_38) 
 
+<br><br>
 
+## Year 3
+
+- 3 - Improving nuclei segmentation using Cellprofiler and StarDist
+- 11 - 3D Matrix Motility Map (3DM³)
+- 14 - The speed of life in trees
+- 17 - Imprints of Wind Disturbances  on Wood Anatomy
+- 18 - Detection of Nuclear Pore Complexes with shape variability imaged by DNA PAINT
+- 19 - Segmentation of sparse bacteria in human tissue
+- 26 - Automatic microtubule doublet picking in tomograms
 
 <br><br>
 

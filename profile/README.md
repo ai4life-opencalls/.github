@@ -30,7 +30,7 @@ In this repository, you can find a list of the finalized pipelines for each Open
 - 11 - [Automated species annotation in turbid waters](https://github.com/ai4life-opencalls/oc_2_project_11)
 - 13 - [Optimizing calcium image acquisition with machine learning denoising algorithms](https://github.com/ai4life-opencalls/oc_2_project_13)
 - 23 - Enhancing the effective resolution of intravital microscopy with digital expansion microscopy
-- 14 - Diatom symbioses at planetary scale
+- 14 - [Diatom symbioses at planetary scale](https://github.com/ai4life-opencalls/oc_2_project_14)
 - 21 - [Automated segmentation of actin filaments in intact cells (EM)](https://github.com/ai4life-opencalls/oc_2_project_21)
 - 26 - [Ultrastructural protein mapping  through Correlation of Light and Electron Microscopy](https://github.com/ai4life-opencalls/oc_2_project_26)
 - 38 - [NeuroScan - A 3D human motor neuron disease platform for high throughput drug screening](https://github.com/ai4life-opencalls/oc_2_project_38) 

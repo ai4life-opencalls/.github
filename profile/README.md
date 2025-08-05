@@ -44,10 +44,11 @@ In this repository, you can find a list of the finalized pipelines for each Open
 - 14 - The speed of life in trees
 - 17 - Imprints of Wind Disturbances  on Wood Anatomy
 - 18 - Detection of Nuclear Pore Complexes with shape variability imaged by DNA PAINT
-- 19 - Segmentation of sparse bacteria in human tissue
+- 19 - [Segmentation of sparse bacteria in human tissue](https://github.com/ai4life-opencalls/oc3_project_19)
 - 26 - Automatic microtubule doublet picking in tomograms
 
 <br><br>
 
 AI4Life has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement number 101057970. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
+
 

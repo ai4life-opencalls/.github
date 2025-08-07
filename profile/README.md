@@ -40,16 +40,17 @@ In this repository, you can find a list of the finalized pipelines for each Open
 ## Year 3
 
 - 3 - [Improving nuclei segmentation using Cellprofiler and StarDist](https://github.com/ai4life-opencalls/oc_3_project_3)
-- 11 - 3D Matrix Motility Map (3DM³)
+- 11 - [3D Matrix Motility Map (3DM³)](https://github.com/ai4life-opencalls/oc_3_project_11)
 - 14 - The speed of life in trees
 - 17 - Imprints of Wind Disturbances  on Wood Anatomy
-- 18 - [Detection of Nuclear Pore Complexes with shape variability imaged by DNA PAINT](https://github.com/ai4life-opencalls/oc_3_project_18)
+- 18 - Detection of Nuclear Pore Complexes with shape variability imaged by DNA PAINT
 - 19 - [Segmentation of sparse bacteria in human tissue](https://github.com/ai4life-opencalls/oc3_project_19)
 - 26 - Automatic microtubule doublet picking in tomograms
 
 <br><br>
 
 AI4Life has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement number 101057970. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
+
 
 
 
